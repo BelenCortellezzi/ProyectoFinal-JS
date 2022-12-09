@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "price": 400,
+    "title": "Heladera",
+    "category": "Heladera",
+    "image": "https://images.fravega.com/f1000/c33a7198e30d05c9101d72717f1a0050.jpg",
+    "description": "Heladera No Frost Siam HSI-RT60 Roja 420lt"
+  },
+  {
+    "id": 2,
+    "price": 250,
+    "title": "Lavarropas",
+    "category": "Lavarropas",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_714143-MLA49074014723_022022-O.jpg",
+    "description": "Lavarropas Drean 8.14 Next Ddr Eco Rojo"
+  },
+  {
+    "id": 3,
+    "price": 200,
+    "title": "Cafetera",
+    "category": "Cafetera",
+    "image": "https://www.otero.com.ar/Image/0/750_750-680351_4.jpg",
+    "description": "Cafetera Moulinex Dolce Gusto Genio S Plus Roja"
+  },
+  {
+    "id": 4,
+    "price": 100,
+    "title": "Microondas",
+    "category": "Microondas",
+    "image": "https://sogostore.fr/wp-content/uploads/2019/03/HOR-SS-890-R.jpg",
+    "description": "Horno Microondas Retro-SOGO FR"
+  }
+]
